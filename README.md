@@ -13,12 +13,6 @@
 
 ## Rubrica de evaluacion:
 
-## Rúbrica de evaluación
-
-## Rúbrica de evaluación
-
-## Rúbrica de evaluación
-
 | **ASPECTOS / ESCALA** | **Excelente**<br>2 pts. | **Satisfactorio**<br>1.5 pts. | **En Progreso**<br>1 pts. | **Iniciado**<br>0.5 pts. | **Ausente**<br>0 pts. | **Puntaje** |
 |------------------------|-------------------------|-------------------------------|---------------------------|--------------------------|-----------------------|-------------|
 | **Análisis del problema** | El análisis del problema es completo y exhaustivo; se comprenden en detalle los requisitos. | El análisis del problema es adecuado y se comprenden la mayoría de los requisitos. | Se ha realizado un progreso significativo en el análisis del problema, pero faltan algunos detalles. | Se ha iniciado el análisis del problema, pero se necesita más trabajo para tener una comprensión clara. | No se ha realizado un análisis adecuado ni se han identificado los requisitos necesarios. | **__2 pts.__** |
