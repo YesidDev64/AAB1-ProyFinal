@@ -1,0 +1,101 @@
+===== REPORTE GENERAL CLINICA =====
+
+===== CLIENTES =====
+Cliente 1:
+Nombres y Apellidos: Luis Jaramillo
+Cedula: 1109876785
+Telefono: 0987576589
+Correo: j.@gmail.com
+
+=============================================
+
+===== VETERINARIOS =====
+Veterinario 1:
+Nombres y Apellidos: Carlos Mendoza
+Cedula: 1314859620
+Telefono: 0984123765
+Especialidad: Gastroenterologo
+
+=============================================
+Veterinario 2:
+Nombres y Apellidos: Maria Espinoza
+Cedula: 1725948312
+Telefono: 0995874123
+Especialidad: Dermatologo
+
+=============================================
+Veterinario 3:
+Nombres y Apellidos: Juan Andrade
+Cedula: 1104769831
+Telefono: 0961592834
+Especialidad: Nefrologo
+
+=============================================
+Veterinario 4:
+Nombres y Apellidos: Ana Rodriguez
+Cedula: 0928374156
+Telefono: 0939485712
+Especialidad: Internista
+
+=============================================
+Veterinario 5:
+Nombres y Apellidos: Luis Cardenas
+Cedula: 0105634298
+Telefono: 0972614958
+Especialidad: Epidemiologo
+
+=============================================
+
+===== INVENTARIO =====
+Medicamento 1:
+Nombre: Amoxicilina
+Cantidad Disponible: 100
+Costo: $1,50
+=============================================
+Medicamento 2:
+Nombre: Oclacitinib
+Cantidad Disponible: 100
+Costo: $3,00
+=============================================
+Medicamento 3:
+Nombre: Maropitant
+Cantidad Disponible: 100
+Costo: $7,00
+=============================================
+Medicamento 4:
+Nombre: Doxiciclina
+Cantidad Disponible: 100
+Costo: $1,00
+=============================================
+Medicamento 5:
+Nombre: Fluralaner
+Cantidad Disponible: 100
+Costo: $40,00
+=============================================
+
+===== CITAS MEDICAS =====
+Cita N°1
+
+Fecha: 18-06-2026
+Hora: 12:00pm
+Razon: revision
+Diagnostico: f
+Enfermedad: a
+Cliente: Luis Jaramillo
+Mascota: x
+Veterinario: Ana Rodriguez
+Total: $20,00
+
+=============================================
+
+===== ESTADISTICAS =====
+Afluencia por especie en el mes 06
+Perros: 1
+Gatos: 0
+Aves: 0
+Otros: 0
+
+Patologias tratadas en el mes 06
+a : 1
+
+
